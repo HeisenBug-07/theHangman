@@ -1,2 +1,2 @@
 # theHangman
-guess the correct DC or Marvel Charcter 
+guess the correct DC or Marvel character 
